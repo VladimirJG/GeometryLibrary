@@ -18,4 +18,9 @@ public class Rectangle implements Figure {
     public double perimeter() {
         return 2 * (width + height);
     }
+
+    @Override
+    public double getRadius() {
+        return 0;
+    }
 }

@@ -21,4 +21,9 @@ public class Triangle implements Figure {
     public double perimeter() {
         return side1 + side2 + side3;
     }
+
+    @Override
+    public double getRadius() {
+        return 0;
+    }
 }
