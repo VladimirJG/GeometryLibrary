@@ -1,0 +1,3 @@
+module GeometryLibrary {
+    exports geometricFigures;
+}
