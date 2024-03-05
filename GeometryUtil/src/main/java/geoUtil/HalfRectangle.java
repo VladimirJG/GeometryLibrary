@@ -2,7 +2,7 @@ package geoUtil;
 
 import geometricFigures.Figure;
 
-public class HalfRectangle {
+public class HalfRectangle implements RectangleInterface {
     public HalfRectangle() {
 
     }
